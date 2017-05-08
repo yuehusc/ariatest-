@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Aria</string>
+    <string name="payment_hint">How much you want to donate to Snapchat?</string>
 </resources>
